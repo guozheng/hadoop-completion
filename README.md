@@ -1,0 +1,1 @@
+Hadoop Shell Command Auto-completion Script
