@@ -1,8 +1,8 @@
-# Hadoop Shell Command Auto-completion
+## Hadoop Shell Command Auto-completion
 
 ## Usage
 
-Similar to the Bash auto-completion you use every day, press the <kdb>TAB</kdb> key twice: <kbd>TAB</kbd><kbd>TAB</kbd>.
+Similar to the Bash auto-completion you use every day, press the <kbd>TAB</kbd> key twice: <kbd>TAB</kbd><kbd>TAB</kbd>.
 
 ## Installation without [Bash Completion](http://bash-completion.alioth.debian.org) (you really should)
 
