@@ -4,7 +4,7 @@
 
 Similar to the Bash auto-completion you use every day, press the <kbd>TAB</kbd> key twice: <kbd>TAB</kbd><kbd>TAB</kbd>.
 
-## Installation without [Bash Completion](http://bash-completion.alioth.debian.org) (you really should)
+## Installation without [Bash Completion](http://bash-completion.alioth.debian.org)
 
 * Get the script, assuming you save it to `~/bin/hadoop-completion.sh`:
 
