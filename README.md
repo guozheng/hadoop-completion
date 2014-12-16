@@ -9,7 +9,7 @@ Similar to the Bash auto-completion you use every day, press the <kbd>TAB</kbd> 
 * Get the script, assuming you save it to `~/bin/hadoop-completion.sh`:
 
 ```
-    curl https://raw.github.com/guozheng/hadoop-completion/master/hadoop-completion.sh -so ~/bin/hadoop-completion.sh && chmod +x ~/bin/hadoop-completion.sh
+    curl https://raw.githubusercontent.com/guozheng/hadoop-completion/master/hadoop-completion.sh -so ~/bin/hadoop-completion.sh && chmod +x ~/bin/hadoop-completion.sh
 ```
 * Add to your `~/.bash_profile` (for Mac) or `~/.bashrc` for (other platform) to call the script:
 
@@ -40,7 +40,7 @@ Similar to the Bash auto-completion you use every day, press the <kbd>TAB</kbd> 
 * Install `hadoop-completion.sh` to the Bash-Completion script directory `/usr/local/etc/bash_completion.d`.
 
 ```
-    curl https://raw.github.com/guozheng/hadoop-completion/master/hadoop-completion.sh -so ~/bin/hadoop-completion.sh && chmod +x ~/bin/hadoop-completion.sh
+    curl https://raw.githubusercontent.com/guozheng/hadoop-completion/master/hadoop-completion.sh -so ~/bin/hadoop-completion.sh && chmod +x ~/bin/hadoop-completion.sh
 ```
 
 * Either source your `~/.bash_profile` or open a new terminal and start using `hadoop-completion` script.
@@ -58,7 +58,7 @@ Similar to the Bash auto-completion you use every day, press the <kbd>TAB</kbd> 
 
 For example:
 ```
-    curl https://raw.github.com/guozheng/hadoop-completion/master/hadoop-completion.sh -so ~/bash_completion.d/hadoop-completion.sh && chmod +x ~/bash_completion.d/hadoop-completion.sh
+    curl https://raw.githubusercontent.com/guozheng/hadoop-completion/master/hadoop-completion.sh -so ~/bash_completion.d/hadoop-completion.sh && chmod +x ~/bash_completion.d/hadoop-completion.sh
 ```
 
 * Either source your `~/.bashrc`, or open a new terminal and start using `hadoop-completion` script.
